@@ -1,0 +1,11 @@
+HITL 
+
+It is a design approach in AI systems where a human actively participate at critical 
+points of the AI workflow -- either to supervise , approve , correct , or guide the models output.
+
+Think of HITL as putting a human "checkpoint" insode an AI pipeline so that important decisions are not made autonomously by the model.
+
+why HITL exists ??
+
+to help agentic systems 
+to add accountability
