@@ -1,0 +1,16 @@
+SUBGRAPH
+
+A Subgraph in LangGraph usually means a graph that is embedded and executed as a node inside another graph.
+
+$ why subgraphs are needed?
+
+User ---> LLM ----> output
+
+TOol calls
+Rag
+conditional Routing
+retries
+Memory
+HITL
+Evaluation
+Guardrails
